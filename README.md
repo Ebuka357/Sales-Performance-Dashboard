@@ -40,6 +40,8 @@ Present visual dashboards and key performance indicators (KPIs) that enable quic
 
 * Use insights from data to guide decisions that boost revenue and profitability.
 
+<img width="1898" height="1783" alt="novaretail_dashboard_full" src="https://github.com/user-attachments/assets/ab5afa5e-56ad-4100-b50f-4438a5abf70b" />
+
 ## Analysis & Key Insights
 ### Revenue Insights:
 - The total revenue generated was ₦29,521,000 across all cities.
@@ -90,3 +92,4 @@ consistent stock, warranty/upsell bundles, and premium service offerings.
 8. Investigate Port Harcourt impact: Since excluding Port Harcourt changes total revenue
 materially, review operations/returns/late deliveries in that city and optimize logistics or
 marketing spend accordingly.
+
